@@ -1,3 +1,15 @@
 * {
     font-family: 'Segoe UI';
 }
+article{
+    max-width: 900px;
+    margin: 0 auto;
+}
+body{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.h2{
+    color: grey;
+    text-decoration-line: underline;
+}
