@@ -82,3 +82,12 @@ footer {
     color: white;
     text-align: right;
 }
+@media  screen and (width <= 680px){
+    .presentation{
+        display: none;
+        
+    }
+    .menu-conteneur{
+        
+    }
+}
